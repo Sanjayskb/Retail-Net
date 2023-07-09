@@ -13,6 +13,15 @@
 •	It is a cost and time efficient E-commerce web application which provides the communicating medium between the above mentioned entities.<br/>
 •	Details of product will be visible to each entity according to their requirements. Invoice will be generated  which can reduce paper work and time<br/>
 
+**Design**<br/>
+![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/28246230-cc5e-4a2e-a286-c087a30f4b55)
+<br/>
+![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/4760adf9-ee09-43ba-8e06-a57c949eac44)
+<br/>
+![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/a9aaa35e-9623-4348-991b-55669bc91738)
+<br/>
+![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/38203192-292d-480c-b7a1-a930537df0cf)
+<br/>
 **Purpose**<br/>
 •	The main purpose of using “Retail Net” is that it benefits the business and the customer. The wholesaler can reduce their prices of the products that they sell which will allow the consumer to purchase more stock at a more suitable price. The wholesaler can sell more products at a reduced price but will gain profit from this as it benefits both parties.<br/>
 •	Also it cuts out the unwanted wasted time. Without the e-commerce application wholesalers and consumers or any other entity used a paperback catalogue, this wastes time that companies can’t afford. An advantage of using this web application is that it saves time and fuss of visiting the other entities.<br/>
@@ -178,15 +187,7 @@ The following implementation strategy will be followed for The Retail Net.
 •	Actual Implementation: The system is actually implemented in the environment and ready to be used by the users
 •	Post Implementation Maintenance and Monitoring: After the system is implemented it is monitored for feedback and necessary changes are done.<br/>
 
-**Design**<br/>
-![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/28246230-cc5e-4a2e-a286-c087a30f4b55)
-<br/>
-![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/4760adf9-ee09-43ba-8e06-a57c949eac44)
-<br/>
-![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/a9aaa35e-9623-4348-991b-55669bc91738)
-<br/>
-![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/38203192-292d-480c-b7a1-a930537df0cf)
-<br/>
+
 **Gantt Chart** <br/>
 ![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/dae4cd8a-5f8e-404d-ac6e-33610e02f2df)
 
