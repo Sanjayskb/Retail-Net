@@ -1,5 +1,6 @@
 # RetailNet
-![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/5ad60eee-a13d-470b-b820-f68a69119ec2)
+![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/7c5a0195-50d4-41be-b48b-3bfc5da7a353)
+
 <br/>
 **INTRODUCTION** <br/>
 **Problem Summary**<br/>
@@ -142,7 +143,8 @@ Hardware Requirements<br/>
 
 **Software Development Model**<br/>
 Design of Spiral model<br/>
-![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/d398e835-4132-4474-899d-904d232b9a8f)
+![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/25ce575f-8e60-4cb3-9d34-980c8457cf6c)
+
 <br/>
 **Advantages of spiral model**<br/>
 •	High amount of risk analysis hence, avoidance of Risk is enhanced.
@@ -177,21 +179,25 @@ The following implementation strategy will be followed for The Retail Net.
 •	Post Implementation Maintenance and Monitoring: After the system is implemented it is monitored for feedback and necessary changes are done.<br/>
 
 **Design**<br/>
-![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/5c7da054-57e4-4337-b21b-6f00f49daf8b)
+![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/28246230-cc5e-4a2e-a286-c087a30f4b55)
 <br/>
-![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/a939e303-23e4-4ec8-b523-405474b8e262) <br/>
-![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/f467febf-4b5f-429c-916b-54155cdf467b) <br/>
-![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/7d34ad29-5159-46b7-958e-763a4dbdd363) <br/>
-![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/261add91-116f-426c-a8f6-4701c52a1120) <br/>
-![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/79c172f1-d5ce-4d3a-b4f6-3c0b0027ead1) <br/>
+![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/4760adf9-ee09-43ba-8e06-a57c949eac44)
+<br/>
+![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/a9aaa35e-9623-4348-991b-55669bc91738)
+<br/>
+![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/38203192-292d-480c-b7a1-a930537df0cf)
 <br/>
 **Gantt Chart** <br/>
-![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/3f542e2a-88d5-4b77-98ff-50b1ff197553) <br/><br/>
-![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/0a5ecd2e-2d38-4320-ab03-69c9d430b666)<br/><br/>
+![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/dae4cd8a-5f8e-404d-ac6e-33610e02f2df)
+
+ <br/><br/>
+![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/8a9f5397-7798-4d0b-9f33-2d37d13ca31d)
+<br/><br/>
 
 **Design Engineering Canvas**<br/>
 **AEIOU**<br/>
-![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/e95c6ef3-90fc-4c5b-bd3d-022b4aa72bad)<br/><br/>
+![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/0efc1160-02c2-474d-9a57-a6ff56f71a5c)
+<br/><br/>
 **Activities**<br/>
 -Buying
 -Selling
@@ -226,7 +232,8 @@ The following implementation strategy will be followed for The Retail Net.
 -Distributor 
 -whole seller<br/>
 **Product Development Canvas**<br/>
-  ![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/fff50a3a-374d-4de8-b797-97f92f47aaef)<br/>
+ ![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/f93b6b7d-e9f4-4783-9818-be79e094c6c7)
+<br/>
 **Purpose**<br/>
 -Online trading
 -online invoice generation
@@ -264,8 +271,10 @@ People
 -Mvc
 -Searching algorithm<br/>
 <br/>
-**Ideation Canvas**<br/>
-![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/40672f6e-f1f6-4d2a-9da4-75a56b308f5a)
+**Ideation Canvas**
+  <br/>
+![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/6407a770-ba16-4501-9f9c-2c36685f07d5)
+
 <br/>
 **People**<br/>
 -Admin
@@ -307,8 +316,10 @@ People
 -product availability<br/>
 
 **Empathy Canvas**<br/>
-![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/dd631deb-75d4-45b4-bfb0-90287e470b26)<br/>
-![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/0cf589ad-da59-48ed-a407-167c9f1107e1)<br/>
+![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/2e472128-1757-4098-9e0a-0766ec482240)
+<br/>
+![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/e6101360-827a-4ce4-acc8-982c29b38927)
+<br/>
 Users <br/>
 -Manufacturer
 -Workers
@@ -354,87 +365,57 @@ The Retail Net has a large user base from all age categories, thus the implement
 
 **DATA DICTIONARY**<br/>
 Database Design<br/>
- ![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/104e03ac-0054-42b7-8331-99575b184cd4)<br/>
-Database Tables<br/>
-![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/ece7df18-cb07-4c1b-b101-31badbc64c12)
+![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/24a362b5-319d-4c3d-8000-fbe51f1d3e6d)
 <br/>
-![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/7ba7dfac-690b-4780-b753-7b52bbf46c94)
+Database Tables<br/>
+![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/749dfd90-a96f-4869-b70e-1687278b70fb)
+
 <br/>
 
-Products <br/>
-![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/d6527635-c0dd-4557-b252-64fa939c49f5)
-<br/>
-Cart<br/>
-![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/e3f3b2d5-ae86-422c-9414-a59673bf0969)<br/>
-Master_User<br/>
- ![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/7f542459-38d3-42b3-ba3a-94dd41e49e3b)<br/>
-Master_User_Type<br/>
-![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/6fbcf5dc-b844-4b41-a10d-d697da8a7c94)<br/>
-Master_User_Type<br/>
-![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/517feb2b-2d90-477b-a4b7-ef73a2b34c35)<br/>
-Master_Manufacturer<br/>
-![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/b74ffc21-26c5-4113-917b-1690d00cd432)<br/>
-Master_Distributor<br/>
-![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/1a935a36-1401-4893-a04d-809b2613b9d9)<br/>
-Master_Retailer<br/>
-![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/b1bfdd6f-fd9c-4bef-be0e-06645fd90930)<br/>
-Master_Wholeseller<br/>
-![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/342dbe20-a080-4f9f-a0c6-04c72607e210)<br/>
-Master_Gst<br/>
-![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/ad7d0b02-17f0-485c-b042-7165099f0496)<br/>
-Master_Brands <br/>
-![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/9c365f45-f14a-4aa7-b444-f5d1ce8262a2)<br/>
-Master_Sectors<br/>
-![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/cc1a65e3-6500-4bb0-92f7-44dcfe6413f8)<br/>
-Orders<br/>
-![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/3785e579-cb8e-44c3-a267-627de45ac1af)<br/>
-Invoice<br/>
-![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/0b0f962e-901e-4099-a233-6999e385ad24)<br/>
-Category<br/>
-![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/4ef0d7dc-1171-434a-82d9-8f4b12592396)<br/>
-Cities<br/>
-![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/3451fdb2-f244-495c-8255-7b3fc8513174)<br/>
-Firm<br/>
-![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/fc749db5-a7a1-4eaf-9bdf-eae65402dd24)<br/>
-Gst<br/>
-![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/e39ba462-0038-4ead-969e-88f72978e529)<br/>
-Help<br/>
-![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/d566566b-d09e-446e-a8f5-e8c4a6fa2027)<br/>
-Inquiries<br/>
-![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/883a5c68-bb2c-4666-bc22-2117ecc05cd6)<br/>
-Sector<br/>
-![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/04a62b8f-3364-4b25-a63b-5f6d0ec59942)<br/>
-Units<br/>
-![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/a22bb2e0-39f6-46ba-b414-12f373bb8121)<br/>
+
 
  DIAGRAM<br/>
 Use-Case Diagram <br/>
-![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/eafac005-ee50-480c-a6cb-7bec3fc7d21b)<br/>
+![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/98aff812-a31e-44e7-9804-b667679361e1)
+<br/>
 Entity Relation Diagram <br/>
-![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/ef07461c-51b0-45b7-95b1-c60a8023a52c)<br/>
+![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/b35cd58c-68cd-4386-8a81-00eef53b4ed4)
+<br/>
 Class Diagram <br/>
- ![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/3e30773e-80fc-486b-a06d-23bf026f334c)<br/>
+![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/7a72435d-048e-434c-b70b-0ff3ba87ce49)
+<br/>
 Activity Diagram <br/>
- ![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/3c8366f3-9a47-44dd-96d9-092bc156923a)<br/>
+![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/69a5e053-794f-4b79-891a-e90d7825d20c)
+<br/>
 Activity Diagram <br/>
-![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/a11836d3-29ab-48fe-bdc0-6081a0134d6c)<br/>
+![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/4d469567-bd84-4edd-983e-7eea1aaee8a4)
+<br/>
 State Diagram <br/>
- ![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/e6042767-31a7-47a6-9ac2-b2e8382f55bf)<br/>
+![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/b07794f2-18fc-4256-8431-05621647b782)
+<br/>
 State Diagram<br/>
-![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/afc928ed-b90b-4105-b606-f6a5690daf61)<br/>
+![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/885bbd46-7732-446d-8bf4-95997310b5f5)
+<br/>
 State Diagram <br/>
- ![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/e15b5669-2b1a-4e47-9b2d-4ca67bde78d0)<br/>
+ ![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/af67119e-0cc4-4fb2-b8d7-322ccc9a19e1)
+<br/>
 Sequence Diagram <br/>
-![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/515e3ac9-2a8e-44c0-91ac-d03d9e13c59d)<br/>
+![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/d99466a1-71e1-4cf1-9d5c-27a582353205)
+
+<br/>
 Sequence Diagram <br/>
-![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/b7ec3002-5b80-4605-bed3-8e9495c4eae0)<br/>
+![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/b779fcc5-388c-4d04-abe8-b3486a6a317e)
+<br/>
 Data Flow Diagram<br/>
 DFD Level 0<br/>
-![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/1be31824-8797-4cf4-aee4-4d059b1fd7a5)<br/>
+![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/dfee448e-d77e-4554-8b37-0851e9fcbda1)
+<br/>
 DFD level 1<br/>
-![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/57ebb698-c14c-4bde-a5b9-e346b6b12af6)<br/>
+![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/b709fccc-ca82-45f0-937b-5a6e62c994c7)
+<br/>
 DFD Level 2<br/>
-![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/378bab74-88a7-454f-9ee3-4d6aff3ee567)<br/>
+![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/7f96a9c6-4b2b-4a14-aa79-d95567d919cd)
+<br/>
  SUMMARY<br/>
  Benefits <br/>
 •	A web application that provides interacting medium between Manufactures, Whole-sellers, Distributors and Retailers.<br/>
