@@ -404,11 +404,13 @@ Sequence Diagram <br/>
 
 <br/>
 Sequence Diagram <br/>
-![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/b779fcc5-388c-4d04-abe8-b3486a6a317e)
+![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/b262e22b-a3d5-482a-bd91-3b88f96e3aec)
+
 <br/>
 Data Flow Diagram<br/>
 DFD Level 0<br/>
-![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/dfee448e-d77e-4554-8b37-0851e9fcbda1)
+![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/bfae4d8a-7414-4e08-93d6-bc66f856e4d2)
+
 <br/>
 DFD level 1<br/>
 ![image](https://github.com/Sanjayskb/Retail-Net/assets/59079149/b709fccc-ca82-45f0-937b-5a6e62c994c7)
